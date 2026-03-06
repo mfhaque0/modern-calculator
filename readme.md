@@ -2,6 +2,10 @@
 
 A modern web-based calculator built using HTML, CSS, and JavaScript.
 
+## 🚀 Live Demo
+
+https://mfhaque0.github.io/modern-calculator/
+
 ## Features
 
 - Keyboard support
