@@ -4,7 +4,7 @@ A modern web-based calculator built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-https://mfhaque0.github.io/modern-calculator/
+[https://mfhaque0.github.io/modern-calculator/](https://mfhaque0.github.io/OIBSIP_webdevelopment_task1/)
 
 ## Features
 
